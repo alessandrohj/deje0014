@@ -1,4 +1,4 @@
-![Alessandro as mobile developer](https://raw.githubusercontent.com/AfrazCodes/AfrazCodes/main/Github.png)
+![Alessandro as mobile developer](https://raw.githubusercontent.com/deje0014/deje0014/main/Github.png)
 
 ## Hey there, I'm Alessandro! 👋
 
