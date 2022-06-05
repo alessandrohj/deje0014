@@ -2,7 +2,7 @@
 
 ## Hey there, I'm Alessandro! 👋
 
-# Full Stack Developer with experience in React, Vue and Node.js, among a few other things.
+### Full Stack Developer with experience in React, Vue and Node.js, among a few other things.
 
 - 📫 How to reach me: :link: https://www.linkedin.com/in/j-alessandro/
 
